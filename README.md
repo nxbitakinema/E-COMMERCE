@@ -1,6 +1,6 @@
 learn from ED ROH - https://www.youtube.com/watch?v=EBCdyQ_HFMo
 
-e-commerce application use : react / redux / mui / formik ( validation ) / stripe ( payment ) / strappy ( backend data )
+this project use : react / redux / mui / formik ( validation ) / stripe ( payment ) / strappy ( backend data )
 
 ---
 
